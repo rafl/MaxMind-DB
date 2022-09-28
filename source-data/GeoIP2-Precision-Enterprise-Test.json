@@ -1933,7 +1933,7 @@
       }
    },
    {
-       "214.214.214.214/32" : {
+      "214.214.214.214/32" : {
          "traits" : {
             "static_ip_score" : 0.4,
             "user_type" : "content_delivery_network"
@@ -1941,7 +1941,7 @@
       }
    },
    {
-       "214.214.214.215/32" : {
+      "214.214.214.215/32" : {
          "traits" : {
             "static_ip_score" : 0.4,
             "user_type" : "business"
@@ -1949,7 +1949,7 @@
       }
    },
    {
-       "214.214.214.216/32" : {
+      "214.214.214.216/32" : {
          "traits" : {
             "static_ip_score" : 0.4,
             "user_type" : "traveler"
@@ -1957,7 +1957,7 @@
       }
    },
    {
-       "214.214.214.217/32" : {
+      "214.214.214.217/32" : {
          "traits" : {
             "static_ip_score" : 0.4,
             "user_type" : "traveler"
@@ -1965,7 +1965,7 @@
       }
    },
    {
-       "214.214.214.218/32" : {
+      "214.214.214.218/32" : {
          "traits" : {
             "static_ip_score" : 0.4,
             "user_type" : "business"
@@ -1973,7 +1973,7 @@
       }
    },
    {
-       "214.214.214.219/32" : {
+      "214.214.214.219/32" : {
          "traits" : {
             "static_ip_score" : 0.4,
             "user_type" : "business"
@@ -1981,7 +1981,7 @@
       }
    },
    {
-       "214.214.214.220/32" : {
+      "214.214.214.220/32" : {
          "traits" : {
             "static_ip_score" : 0.4,
             "user_type" : "business"
@@ -2308,6 +2308,300 @@
                "ru" : "Япония",
                "zh-CN" : "日本"
             }
+         }
+      }
+   },
+   {
+      "::23.10.87.103/32" : {
+         "city" : {
+            "confidence" : 40,
+            "geoname_id" : 5368361,
+            "names" : {
+               "de" : "Los Angeles",
+               "en" : "Los Angeles",
+               "es" : "Los Ángeles",
+               "fr" : "Los Angeles",
+               "ja" : "ロサンゼルス",
+               "pt-BR" : "Los Angeles",
+               "ru" : "Лос-Анджелес",
+               "zh-CN" : "洛杉矶"
+            }
+         },
+         "continent" : {
+            "code" : "NA",
+            "geoname_id" : 6255149,
+            "names" : {
+               "de" : "Nordamerika",
+               "en" : "North America",
+               "es" : "Norteamérica",
+               "fr" : "Amérique du Nord",
+               "ja" : "北アメリカ",
+               "pt-BR" : "América do Norte",
+               "ru" : "Северная Америка",
+               "zh-CN" : "北美洲"
+            }
+         },
+         "country" : {
+            "confidence" : 99,
+            "geoname_id" : 6252001,
+            "iso_code" : "US",
+            "names" : {
+               "de" : "USA",
+               "en" : "United States",
+               "es" : "Estados Unidos",
+               "fr" : "États-Unis",
+               "ja" : "アメリカ合衆国",
+               "pt-BR" : "Estados Unidos",
+               "ru" : "США",
+               "zh-CN" : "美国"
+            }
+         },
+         "location" : {
+            "accuracy_radius" : 20,
+            "latitude" : 34.0544,
+            "longitude" : -118.244,
+            "metro_code" : 803,
+            "time_zone" : "America/Los_Angeles"
+         },
+         "postal" : {
+            "code" : "90009",
+            "confidence" : 1
+         },
+         "registered_country" : {
+            "geoname_id" : 6252001,
+            "iso_code" : "US",
+            "names" : {
+               "de" : "USA",
+               "en" : "United States",
+               "es" : "Estados Unidos",
+               "fr" : "États-Unis",
+               "ja" : "アメリカ合衆国",
+               "pt-BR" : "Estados Unidos",
+               "ru" : "США",
+               "zh-CN" : "美国"
+            }
+         },
+         "subdivisions" : [
+            {
+               "confidence" : 90,
+               "geoname_id" : 5332921,
+               "iso_code" : "CA",
+               "names" : {
+                  "de" : "Kalifornien",
+                  "en" : "California",
+                  "es" : "California",
+                  "fr" : "Californie",
+                  "ja" : "カリフォルニア州",
+                  "pt-BR" : "Califórnia",
+                  "ru" : "Калифорния",
+                  "zh-CN" : "加利福尼亚州"
+               }
+            }
+         ],
+         "traits" : {
+            "autonomous_system_number" : 33224,
+            "autonomous_system_organization" : "Towerstream I, Inc.",
+            "connection_type" : "Corporate",
+            "isp" : "Towerstream I",
+            "organization" : "Towerstream I",
+            "static_ip_score" : 0.34,
+            "user_type" : "business"
+         }
+      }
+   },
+   {
+      "::152.216.7.110/32" : {
+         "city" : {
+            "confidence" : 40,
+            "geoname_id" : 5368361,
+            "names" : {
+               "de" : "Los Angeles",
+               "en" : "Los Angeles",
+               "es" : "Los Ángeles",
+               "fr" : "Los Angeles",
+               "ja" : "ロサンゼルス",
+               "pt-BR" : "Los Angeles",
+               "ru" : "Лос-Анджелес",
+               "zh-CN" : "洛杉矶"
+            }
+         },
+         "continent" : {
+            "code" : "NA",
+            "geoname_id" : 6255149,
+            "names" : {
+               "de" : "Nordamerika",
+               "en" : "North America",
+               "es" : "Norteamérica",
+               "fr" : "Amérique du Nord",
+               "ja" : "北アメリカ",
+               "pt-BR" : "América do Norte",
+               "ru" : "Северная Америка",
+               "zh-CN" : "北美洲"
+            }
+         },
+         "country" : {
+            "confidence" : 99,
+            "geoname_id" : 6252001,
+            "iso_code" : "US",
+            "names" : {
+               "de" : "USA",
+               "en" : "United States",
+               "es" : "Estados Unidos",
+               "fr" : "États-Unis",
+               "ja" : "アメリカ合衆国",
+               "pt-BR" : "Estados Unidos",
+               "ru" : "США",
+               "zh-CN" : "美国"
+            }
+         },
+         "location" : {
+            "accuracy_radius" : 20,
+            "latitude" : 34.0544,
+            "longitude" : -118.244,
+            "metro_code" : 803,
+            "time_zone" : "America/Los_Angeles"
+         },
+         "postal" : {
+            "code" : "90009",
+            "confidence" : 1
+         },
+         "registered_country" : {
+            "geoname_id" : 6252001,
+            "iso_code" : "US",
+            "names" : {
+               "de" : "USA",
+               "en" : "United States",
+               "es" : "Estados Unidos",
+               "fr" : "États-Unis",
+               "ja" : "アメリカ合衆国",
+               "pt-BR" : "Estados Unidos",
+               "ru" : "США",
+               "zh-CN" : "美国"
+            }
+         },
+         "subdivisions" : [
+            {
+               "confidence" : 90,
+               "geoname_id" : 5332921,
+               "iso_code" : "CA",
+               "names" : {
+                  "de" : "Kalifornien",
+                  "en" : "California",
+                  "es" : "California",
+                  "fr" : "Californie",
+                  "ja" : "カリフォルニア州",
+                  "pt-BR" : "Califórnia",
+                  "ru" : "Калифорния",
+                  "zh-CN" : "加利福尼亚州"
+               }
+            }
+         ],
+         "traits" : {
+            "autonomous_system_number" : 33224,
+            "autonomous_system_organization" : "Towerstream I, Inc.",
+            "connection_type" : "Corporate",
+            "isp" : "Towerstream I",
+            "organization" : "Towerstream I",
+            "static_ip_score" : 0.34,
+            "user_type" : "business"
+         }
+      }
+   },
+   {
+      "::146.243.121.22/32" : {
+         "city" : {
+            "confidence" : 40,
+            "geoname_id" : 5368361,
+            "names" : {
+               "de" : "Los Angeles",
+               "en" : "Los Angeles",
+               "es" : "Los Ángeles",
+               "fr" : "Los Angeles",
+               "ja" : "ロサンゼルス",
+               "pt-BR" : "Los Angeles",
+               "ru" : "Лос-Анджелес",
+               "zh-CN" : "洛杉矶"
+            }
+         },
+         "continent" : {
+            "code" : "NA",
+            "geoname_id" : 6255149,
+            "names" : {
+               "de" : "Nordamerika",
+               "en" : "North America",
+               "es" : "Norteamérica",
+               "fr" : "Amérique du Nord",
+               "ja" : "北アメリカ",
+               "pt-BR" : "América do Norte",
+               "ru" : "Северная Америка",
+               "zh-CN" : "北美洲"
+            }
+         },
+         "country" : {
+            "confidence" : 99,
+            "geoname_id" : 6252001,
+            "iso_code" : "US",
+            "names" : {
+               "de" : "USA",
+               "en" : "United States",
+               "es" : "Estados Unidos",
+               "fr" : "États-Unis",
+               "ja" : "アメリカ合衆国",
+               "pt-BR" : "Estados Unidos",
+               "ru" : "США",
+               "zh-CN" : "美国"
+            }
+         },
+         "location" : {
+            "accuracy_radius" : 20,
+            "latitude" : 34.0544,
+            "longitude" : -118.244,
+            "metro_code" : 803,
+            "time_zone" : "America/Los_Angeles"
+         },
+         "postal" : {
+            "code" : "90009",
+            "confidence" : 1
+         },
+         "registered_country" : {
+            "geoname_id" : 6252001,
+            "iso_code" : "US",
+            "names" : {
+               "de" : "USA",
+               "en" : "United States",
+               "es" : "Estados Unidos",
+               "fr" : "États-Unis",
+               "ja" : "アメリカ合衆国",
+               "pt-BR" : "Estados Unidos",
+               "ru" : "США",
+               "zh-CN" : "美国"
+            }
+         },
+         "subdivisions" : [
+            {
+               "confidence" : 90,
+               "geoname_id" : 5332921,
+               "iso_code" : "CA",
+               "names" : {
+                  "de" : "Kalifornien",
+                  "en" : "California",
+                  "es" : "California",
+                  "fr" : "Californie",
+                  "ja" : "カリフォルニア州",
+                  "pt-BR" : "Califórnia",
+                  "ru" : "Калифорния",
+                  "zh-CN" : "加利福尼亚州"
+               }
+            }
+         ],
+         "traits" : {
+            "autonomous_system_number" : 33224,
+            "autonomous_system_organization" : "Towerstream I, Inc.",
+            "connection_type" : "Corporate",
+            "isp" : "Towerstream I",
+            "organization" : "Towerstream I",
+            "static_ip_score" : 0.34,
+            "user_type" : "business"
          }
       }
    }
